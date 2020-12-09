@@ -4,6 +4,8 @@
     "description": "SCIM 2.0 APIs Documentation",
     "version": "1.0.0",
     "title": "SCIM 2.0 APIs Documentation",
+	"host" : "scim.onk2.com/tokens/896f0da4-34b3-4158-b4ef-d5a677b906fc/",
+	"schemes" : ["https"], 
     "contact": {
       "name": "WSO2 Identity Server Team",
       "url": "http://wso2.com",
