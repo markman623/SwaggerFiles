@@ -1,7 +1,8 @@
 {
   "swagger": "2.0",
   	"host" : "scim.onk2.com",
-	"schemes" : ["https"], 
+	"schemes" : ["https"],
+	"basePath" : "/tokens/896f0da4-34b3-4158-b4ef-d5a677b906fc/"
   "info": {
     "description": "SCIM 2.0 APIs Documentation",
     "version": "1.0.0",
